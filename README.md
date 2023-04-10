@@ -2,8 +2,10 @@
 ### create logfile in go
 
 Run the command **go run main.go** to compile and execute the program.
+
 Open a web browser and navigate to **http://localhost:8080**
-You should see the message "Hello, World!" in the browser, and a log file called "api.log" should be created in the same directory as main.go.
+
+You should see the message **"Hello, World!"** in the browser, and a log file called **"api.log"** should be created in the same directory as **main.go**.
 
 Here's an **example** of what the console output should look like:
 
